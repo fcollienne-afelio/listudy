@@ -231,7 +231,7 @@ msgstr "Cette action est irréversible ! Etes vous sur ?"
 #, elixir-format
 #: lib/listudy_web/templates/layout/_header.html.eex:74
 msgid "Achievements"
-msgstr "Trophés"
+msgstr "Trophées"
 
 #, elixir-format
 #: lib/listudy_web/templates/pow/registration/edit.html.eex:32
